@@ -16,7 +16,7 @@ const Projects = () => {
             <img src={IMG1} alt= ' ' />
           </div>
             <h3>A Simon Like JavaScript Game</h3>
-            <a href='https://github.com' className = 'button button-primary' target='_blank'>Github</a>
+            <a href='https://github.com/mmaske94/Simon-Project-1' className = 'button button-primary' target='_blank'>Github</a>
           
         </article>
         <article className='project__item'>
@@ -24,7 +24,7 @@ const Projects = () => {
             <img src={IMG2} alt= ' ' />
           </div>
             <h3>A Future Dating App</h3>
-            <a href='https://github.com' className = 'button button-primary' target='_blank'>Github</a>
+            <a href='https://github.com/mmaske94/100-Dates' className = 'button button-primary' target='_blank'>Github</a>
           
         </article>
         <article className='project__item'>
@@ -32,7 +32,7 @@ const Projects = () => {
             <img src={IMG3} alt= ' ' />
           </div>
             <h3>A Movie Review App like Rotten Tomatoes</h3>
-            <a href='https://github.com' className = 'button button-primary' target='_blank'>Github</a>
+            <a href='https://github.com/Benitez-Maske-Rasack' className = 'button button-primary' target='_blank'>Github</a>
           
         </article>
       </div>
