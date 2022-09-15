@@ -22,8 +22,8 @@ const About = () => {
           <div className="about__cards">
             <article className='about__card'>
                 <FaAward className='about__icon'/>
-                <h5>Expereince</h5>
-                <small>4+ Years Working</small>
+                <h5>Experience</h5>
+                <small>4+ Years of Professional Work Experience</small>
             </article>
 
             <article className='about__card'>
@@ -40,11 +40,11 @@ const About = () => {
           </div>
 
           <p>
-           Hi! I'm Michael! <br/>
-            I am a Fullstack Engineer looking to land my first development role! <br/>
-           I have been in the Finance World, but was wanting something that was more creative. I found Software Engineering and fell in love.
-           It was the perfect combination of organization, rules, and structure as well as being creative and exploring new ideas and making things look pretty.
-           I am passionate about learning and growing and helping others. I know this new journey is where I am suppose to be!
+          Hi! I'm Michael! <br/>
+          Fullstack Engineer looking to land my first development role! <br/>
+          Have been in the Finance World, but wanted something that was more creative. I found Software Engineering and fell in love.
+          It was the perfect combination of organization, rules, and structure as well as being creative and exploring new ideas and making things look pretty.
+          Very passionate about learning and growing and helping others, and excited about this new journey knowing it's where I am suppose to be!
           </p>
 
           <a href='#contact' className='button button-primary'>Let's Talk</a>

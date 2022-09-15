@@ -19,7 +19,7 @@ const funfacts =[
   {
     image: IMG1,
     title: 'I Love To Travel',
-    description: `I will travel whenever and wherever. It is a goal to vist all 7 continets and all 50 states. Let's make some memories.`
+    description: `I will travel whenever and wherever. It is a goal to vist all 7 continents and all 50 states. Let's make some memories.`
 
   },
   {
