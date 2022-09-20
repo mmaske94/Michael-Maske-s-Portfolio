@@ -1,8 +1,8 @@
 import React from 'react'
 import './FunFacts.css'
-import IMG1 from '../../assets/ME4.png'
-import IMG2 from '../../assets/ME5.png'
-import IMG3 from '../../assets/ME6.png'
+import IMG1 from '../../assets/MICHAEL3.png'
+import IMG2 from '../../assets/MICHAEL4.png'
+import IMG3 from '../../assets/MICHAEL5.png'
 
 import { Navigation  } from 'swiper';
 
