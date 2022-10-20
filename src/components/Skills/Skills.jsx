@@ -16,28 +16,28 @@ const Skills = () => {
                 <ImCheckmark2 className='skills__details-icon' />
                 <div>
                   <h4>HTML</h4>
-                  <small className='text-light'>Expereienced</small>
+                  <small className='text-light'>Experienced</small>
                 </div>
               </article>
               <article className='skills__detail'>
                 <ImCheckmark2 className='skills__details-icon' />
                 <div>
                   <h4>CSS</h4>
-                  <small className='text-light'>Expereienced</small>
+                  <small className='text-light'>Experienced</small>
                 </div>
               </article>
               <article className='skills__detail'>
                 <ImCheckmark2 className='skills__details-icon' />
                 <div>
                   <h4>JavaScript</h4>
-                  <small className='text-light'>Expereienced</small>
+                  <small className='text-light'>Experienced</small>
                 </div>
               </article>
               <article className='skills__detail'>
                 <ImCheckmark2 className='skills__details-icon' />
                 <div>
                   <h4>React</h4>
-                  <small className='text-light'>Expereienced</small>
+                  <small className='text-light'>Experienced</small>
                 </div>
               </article>
             </div>
@@ -51,35 +51,35 @@ const Skills = () => {
                 <ImCheckmark2 className='skills__details-icon' />
                 <div>
                   <h4>Node JS</h4>
-                  <small className='text-light'>Expereienced</small>
+                  <small className='text-light'>Experienced</small>
                 </div>
               </article>
               <article className='skills__detail'>
                 <ImCheckmark2 className='skills__details-icon' />
                 <div>
                   <h4>MongoDB</h4>
-                  <small className='text-light'>Expereienced</small>
+                  <small className='text-light'>Experienced</small>
                 </div>
               </article>
               <article className='skills__detail'>
                 <ImCheckmark2 className='skills__details-icon' />
                 <div>
                   <h4>Django</h4>
-                  <small className='text-light'>Expereienced</small>
+                  <small className='text-light'>Experienced</small>
                 </div>
               </article>
               <article className='skills__detail'>
                 <ImCheckmark2 className='skills__details-icon' />
                 <div>
                   <h4>SQL</h4>
-                  <small className='text-light'>Expereienced</small>
+                  <small className='text-light'>Experienced</small>
                 </div>
               </article>
               <article className='skills__detail'>
                 <ImCheckmark2 className='skills__details-icon' />
                 <div>
                   <h4>Python</h4>
-                  <small className='text-light'>Expereienced</small>
+                  <small className='text-light'>Experienced</small>
                 </div>
               </article>
             </div>
@@ -92,14 +92,14 @@ const Skills = () => {
                 <ImCheckmark2 className='skills__details-icon' />
                 <div>
                   <h4>Git</h4>
-                  <small className='text-light'>Expereienced</small>
+                  <small className='text-light'>Experienced</small>
                 </div>
               </article>
               <article className='skills__detail'>
                 <ImCheckmark2 className='skills__details-icon' />
                 <div>
                   <h4>Microsoft Office</h4>
-                  <small className='text-light'>Expereienced</small>
+                  <small className='text-light'>Experienced</small>
                 </div>
               </article>
             </div>
