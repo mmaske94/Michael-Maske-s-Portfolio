@@ -20,7 +20,7 @@ const Certificates = () => {
         <article className='certificates__detail'>
                 <div className='certificate_container'>
                 <img src= {C2} alt='Certificate Image' /> 
-                  <h4>The Ultimate Geginners Guide to Python Recommender Systems </h4>
+                  <h4>The Ultimate Beginners Guide to Python Recommender Systems </h4>
                   <small className='text-light'>Udemy</small>
                 </div>
         </article>
