@@ -82,6 +82,13 @@ const Skills = () => {
                   <small className='text-light'>Experienced</small>
                 </div>
               </article>
+              <article className='skills__detail'>
+                <ImCheckmark2 className='skills__details-icon' />
+                  <div>
+                    <h4>Flask</h4>
+                    <small className='text-light'>Experienced</small>
+                  </div>
+              </article>
             </div>
         </div>
 

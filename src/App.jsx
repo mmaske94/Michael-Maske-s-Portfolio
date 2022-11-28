@@ -8,6 +8,7 @@ import Projects from './components/Projects/Projects.jsx'
 import FunFacts from './components/FunFacts/FunFacts.jsx'
 import Contact from './components/Contact/Contact.jsx'
 import Footer from './components/Footer/Footer.jsx'
+import Certificates from './components/Certificates/Certificates.jsx'
 
 
 const App = () => {
@@ -20,8 +21,10 @@ const App = () => {
         <FunFacts />
         <Skills />
         <Projects />
+        <Certificates />
         <Contact />
         <Footer />
+        
     </>
   )
 }
