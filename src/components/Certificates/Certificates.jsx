@@ -2,6 +2,7 @@ import React from 'react'
 import './Certificates.css'
 import C1 from '../../assets/CERTIFICATE1.png'
 import C2 from '../../assets/CERTIFICATE2.png'
+import C3 from '../../assets/CERTIFICATE3.png'
 
 
 const Certificates = () => {
@@ -21,6 +22,13 @@ const Certificates = () => {
                 <div className='certificate_container'>
                 <img src= {C2} alt='Certificate Image' /> 
                   <h4>The Ultimate Beginners Guide to Python Recommender Systems </h4>
+                  <small className='text-light'>Udemy</small>
+                </div>
+        </article>
+        <article className='certificates__detail'>
+                <div className='certificate_container'>
+                <img src= {C3} alt='Certificate Image' /> 
+                  <h4>Java Programming for Complete Beginners </h4>
                   <small className='text-light'>Udemy</small>
                 </div>
         </article>

@@ -6,6 +6,7 @@ import IMG3 from '../../assets/PROJECT3.png'
 import IMG4 from '../../assets/PROJECT4.png'
 import IMG5 from '../../assets/PROJECT5.png'
 import IMG6 from '../../assets/PROJECT 6.png'
+import IMG7 from '../../assets/PROJECT7.png'
 
 const Projects = () => {
   return (
@@ -60,6 +61,14 @@ const Projects = () => {
           </div>
             <h3>A Markdown Converter</h3>
             <a href='https://github.com/mmaske94/Markdown-Converter' className = 'button button-primary' target='_blank'>Github</a>
+          
+        </article>
+        <article className='project__item'>
+          <div className="project__item-image">
+            <img src={IMG7} alt= ' ' />
+          </div>
+            <h3>Java Snake</h3>
+            <a href='https://github.com/mmaske94/Snake' className = 'button button-primary' target='_blank'>Github</a>
           
         </article>
       </div>
